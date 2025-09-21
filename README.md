@@ -19,3 +19,10 @@ This project leverages Python and Jupyter Notebooks to perform data analytics on
 
 This project is ideal for anyone interested in retail analytics, festive sales strategies, or data-driven decision making in the retail industry.
 
+## Findings
+
+- The analysis identified significant spikes in sales volume during the Diwali festival, indicating the importance of festive seasons for retail businesses.
+- Distinct customer segments were discovered, with certain demographics showing higher spending patterns during the festival.
+- Popular product categories and top-performing products were highlighted, providing guidance for inventory planning.
+- Purchase behavior analysis revealed trends such as increased gift-related purchases and a preference for specific product bundles.
+- The findings offer actionable recommendations to optimize marketing strategies, improve customer targeting, and enhance product assortment during festive periods.
